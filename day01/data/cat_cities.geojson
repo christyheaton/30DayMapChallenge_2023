@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Catió", "Country": "Guinea Bissau", "Population": 9898, "latitude": 11.2167, "longitude": -15.166701 }, "geometry": { "type": "Point", "coordinates": [ -15.166701, 11.2167 ] } },
+{ "type": "Feature", "properties": { "Name": "Zacatecoluca", "Country": "El Salvador", "Population": 39613, "latitude": 13.508001, "longitude": -88.867998 }, "geometry": { "type": "Point", "coordinates": [ -88.867998, 13.508001 ] } },
+{ "type": "Feature", "properties": { "Name": "Acatlan", "Country": "Mexico", "Population": 18879, "latitude": 18.19996, "longitude": -98.049995 }, "geometry": { "type": "Point", "coordinates": [ -98.049995, 18.19996 ] } },
+{ "type": "Feature", "properties": { "Name": "Catalão", "Country": "Brazil", "Population": 63544, "latitude": -18.180042, "longitude": -47.950004 }, "geometry": { "type": "Point", "coordinates": [ -47.950004, -18.180042 ] } },
+{ "type": "Feature", "properties": { "Name": "Catanduva", "Country": "Brazil", "Population": 109612, "latitude": -21.140016, "longitude": -48.979967 }, "geometry": { "type": "Point", "coordinates": [ -48.979967, -21.140016 ] } },
+{ "type": "Feature", "properties": { "Name": "Arcata", "Country": "United States of America", "Population": 20905, "latitude": 40.88519, "longitude": -124.088225 }, "geometry": { "type": "Point", "coordinates": [ -124.088225, 40.88519 ] } },
+{ "type": "Feature", "properties": { "Name": "Decatur", "Country": "United States of America", "Population": 77868, "latitude": 39.840706, "longitude": -88.954736 }, "geometry": { "type": "Point", "coordinates": [ -88.954736, 39.840706 ] } },
+{ "type": "Feature", "properties": { "Name": "Zacatecas", "Country": "Mexico", "Population": 234481, "latitude": 22.770431, "longitude": -102.580003 }, "geometry": { "type": "Point", "coordinates": [ -102.580003, 22.770431 ] } },
+{ "type": "Feature", "properties": { "Name": "Catanzaro", "Country": "Italy", "Population": 95251, "latitude": 38.900376, "longitude": 16.60001 }, "geometry": { "type": "Point", "coordinates": [ 16.60001, 38.900376 ] } },
+{ "type": "Feature", "properties": { "Name": "Paracatu", "Country": "Brazil", "Population": 70753, "latitude": -17.199585, "longitude": -46.869992 }, "geometry": { "type": "Point", "coordinates": [ -46.869992, -17.199585 ] } },
+{ "type": "Feature", "properties": { "Name": "Cat Lake", "Country": "Canada", "Population": 277, "latitude": 51.717036, "longitude": -91.799989 }, "geometry": { "type": "Point", "coordinates": [ -91.799989, 51.717036 ] } },
+{ "type": "Feature", "properties": { "Name": "Botucatu", "Country": "Brazil", "Population": 113862, "latitude": -22.8796, "longitude": -48.449999 }, "geometry": { "type": "Point", "coordinates": [ -48.449999, -22.8796 ] } },
+{ "type": "Feature", "properties": { "Name": "Pocatello", "Country": "United States of America", "Population": 63998, "latitude": 42.871348, "longitude": -112.444723 }, "geometry": { "type": "Point", "coordinates": [ -112.444723, 42.871348 ] } },
+{ "type": "Feature", "properties": { "Name": "Aracati", "Country": "Brazil", "Population": 44293, "latitude": -4.559994, "longitude": -37.770031 }, "geometry": { "type": "Point", "coordinates": [ -37.770031, -4.559994 ] } },
+{ "type": "Feature", "properties": { "Name": "Catamarca", "Country": "Argentina", "Population": 188812, "latitude": -28.470008, "longitude": -65.780001 }, "geometry": { "type": "Point", "coordinates": [ -65.780001, -28.470008 ] } },
+{ "type": "Feature", "properties": { "Name": "Catania", "Country": "Italy", "Population": 674542, "latitude": 37.499971, "longitude": 15.079999 }, "geometry": { "type": "Point", "coordinates": [ 15.079999, 37.499971 ] } },
+{ "type": "Feature", "properties": { "Name": "Muscat", "Country": "Oman", "Population": 734697, "latitude": 23.613325, "longitude": 58.593312 }, "geometry": { "type": "Point", "coordinates": [ 58.593312, 23.613325 ] } }
+]
+}
