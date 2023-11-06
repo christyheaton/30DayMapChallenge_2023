@@ -1,0 +1,852 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-04T18:47:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/304414485",
+        "amenity": "boat_rental",
+        "name": "洗足池ボートハウス",
+        "name:en": "Senzoku-ike Boat House",
+        "name:es": "Casa del bote Senzoku-ike",
+        "name:ja": "洗足池ボートハウス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6913383,
+          35.6004241
+        ]
+      },
+      "id": "node/304414485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2216004145",
+        "amenity": "boat_rental",
+        "fixme": "resurvey",
+        "note": "уточнить местоположение. Проставил в соответствии с вывеской у дороги",
+        "source": "image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6090291,
+          44.1729821
+        ]
+      },
+      "id": "node/2216004145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2337820123",
+        "amenity": "boat_rental",
+        "dinghy_rental": "yes",
+        "fee": "yes",
+        "name": "石神井公園ボート場",
+        "opening_hours": "Mar-Oct 9:30-17:00; Nov-Feb 10:00-16:00",
+        "operator": "公益財団法人 東京都公園協会",
+        "pedalboat_rental": "yes",
+        "phone": "+81-80-9187-1122",
+        "source": "Survey",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.605934,
+          35.740276
+        ]
+      },
+      "id": "node/2337820123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3105003219",
+        "amenity": "boat_rental",
+        "name": "ボート場",
+        "name:en": "Inokashira Park Boat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.577102,
+          35.699528
+        ]
+      },
+      "id": "node/3105003219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4018508847",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0157659,
+          34.8668847
+        ]
+      },
+      "id": "node/4018508847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340905641",
+        "amenity": "boat_rental",
+        "name": "Прокат лодок"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9387868,
+          43.1163839
+        ]
+      },
+      "id": "node/4340905641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394448152",
+        "amenity": "boat_rental",
+        "name": "ボート乗り場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.491192,
+          35.5642762
+        ]
+      },
+      "id": "node/4394448152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402473002",
+        "amenity": "boat_rental",
+        "name": "貸ボート大城屋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9268294,
+          35.7033975
+        ]
+      },
+      "id": "node/4402473002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402475458",
+        "amenity": "boat_rental",
+        "name": "マルヤ遊船貸ボート",
+        "name:en": "Maruya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9257673,
+          35.7003176
+        ]
+      },
+      "id": "node/4402475458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402476294",
+        "amenity": "boat_rental",
+        "name": "たかはし遊船",
+        "name:en": "Takahashi's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9267115,
+          35.6998341
+        ]
+      },
+      "id": "node/4402476294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402479287",
+        "amenity": "boat_rental",
+        "name": "林遊船"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9366713,
+          35.6965155
+        ]
+      },
+      "id": "node/4402479287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402487827",
+        "amenity": "boat_rental",
+        "name": "高常遊船"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9371862,
+          35.6961648
+        ]
+      },
+      "id": "node/4402487827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4427779155",
+        "amenity": "boat_rental",
+        "leisure": "yes",
+        "name": "보트",
+        "name:ko": "보트",
+        "tourism": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5283677,
+          37.7894791
+        ]
+      },
+      "id": "node/4427779155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498324392",
+        "amenity": "boat_rental",
+        "name": "Лодочная станция Дельфин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0944708,
+          48.4182479
+        ]
+      },
+      "id": "node/4498324392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498339890",
+        "amenity": "boat_rental",
+        "name": "Лодочная станция №6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0944153,
+          48.4138049
+        ]
+      },
+      "id": "node/4498339890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537586659",
+        "amenity": "boat_rental",
+        "name": "レンタルボート笹川"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0710985,
+          35.1995994
+        ]
+      },
+      "id": "node/4537586659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4595272631",
+        "amenity": "boat_rental",
+        "name": "大沼遊船",
+        "name:en": "Onuma boat",
+        "name:ja": "大沼遊船",
+        "name:ko": "오오누마유우센"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6735996,
+          41.9842136
+        ]
+      },
+      "id": "node/4595272631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4853326353",
+        "amenity": "boat_rental",
+        "name": "レンタルボート",
+        "name:en": "Rental Boat",
+        "name:ja": "レンタルボート",
+        "name:ja_kana": "レンタルボート",
+        "opening_hours": "Mo-Fr 11:00-18:00; Sa, Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3759961,
+          33.5891952
+        ]
+      },
+      "id": "node/4853326353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624943355",
+        "amenity": "boat_rental",
+        "name": "ボートのりば",
+        "opening_hours": "Mar-Apr 10:00-16:30",
+        "opening_hours_1": "Sep-Nov 10:00-16:00",
+        "opening_hours_2": "May-Aug 10:00-17:00",
+        "operator": "目黒区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6821938,
+          35.6253527
+        ]
+      },
+      "id": "node/5624943355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5907622029",
+        "amenity": "boat_rental",
+        "name": "Haruna Sightseeing Boat & Cafe Suigetsu",
+        "opening_hours": "Mo-Su 06:00-16:00",
+        "phone": "027-374-9128",
+        "website": "harunako.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8613356,
+          36.4710536
+        ]
+      },
+      "id": "node/5907622029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6283802891",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2085097,
+          36.8328271
+        ]
+      },
+      "id": "node/6283802891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6283802900",
+        "amenity": "boat_rental",
+        "name": "シースピリット"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2077071,
+          36.832505
+        ]
+      },
+      "id": "node/6283802900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6403414560",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8642537,
+          36.4701734
+        ]
+      },
+      "id": "node/6403414560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6483414692",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7305715,
+          36.3779055
+        ]
+      },
+      "id": "node/6483414692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6699644352",
+        "addr:block_number": "7",
+        "addr:city": "亘理町",
+        "addr:county": "亘理郡",
+        "addr:housenumber": "6",
+        "addr:neighbourhood": "字鳥の海",
+        "addr:postcode": "989-2311",
+        "addr:province": "宮城県",
+        "addr:quarter": "荒浜",
+        "amenity": "boat_rental",
+        "name": "亘理町B＆G海洋センター艇庫",
+        "operator": "亘理町",
+        "phone": "+81223-33-2210",
+        "website": "https://watari-bg.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.90604,
+          38.0378962
+        ]
+      },
+      "id": "node/6699644352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6734580989",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.1046037,
+          36.6944832
+        ]
+      },
+      "id": "node/6734580989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083429830",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1889556,
+          35.6123252
+        ]
+      },
+      "id": "node/7083429830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083429843",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1880688,
+          35.6127319
+        ]
+      },
+      "id": "node/7083429843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7287619289",
+        "amenity": "boat_rental",
+        "name": "ボート乗り場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6767364,
+          38.1838966
+        ]
+      },
+      "id": "node/7287619289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7533656222",
+        "addr:street": "전곡항로 5 (전곡항마리나, GATE 2, 위치C-2)",
+        "amenity": "boat_rental",
+        "charge": "15000원/시간,인",
+        "currency:XBT": "yes",
+        "fee": "yes",
+        "name": "런던요트 (요트체험)",
+        "opening_hours": "매일 10:00~19:00",
+        "operator": "개인사업장",
+        "operator:type": "business",
+        "payment:coins": "yes",
+        "payment:cryptocurrencies": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.65189,
+          37.1864127
+        ]
+      },
+      "id": "node/7533656222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8176232483",
+        "amenity": "boat_rental",
+        "fee": "yes",
+        "name": "밀양보트장",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.752773,
+          35.4897756
+        ]
+      },
+      "id": "node/8176232483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9024649922",
+        "amenity": "boat_rental",
+        "name": "相模湖日相園四季亭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.156755,
+          35.6122169
+        ]
+      },
+      "id": "node/9024649922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9542802183",
+        "amenity": "boat_rental",
+        "seasonal": "spring;summer;autumn",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9060859,
+          43.8192777
+        ]
+      },
+      "id": "node/9542802183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9605158291",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6966265,
+          43.2599501
+        ]
+      },
+      "id": "node/9605158291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9677297853",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4076715,
+          42.2935543
+        ]
+      },
+      "id": "node/9677297853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9798453676",
+        "amenity": "boat_rental",
+        "name": "Tubester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.995202,
+          37.5113514
+        ]
+      },
+      "id": "node/9798453676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9827051040",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3933206,
+          35.7058735
+        ]
+      },
+      "id": "node/9827051040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10048342615",
+        "amenity": "boat_rental",
+        "name": "田中園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1109116,
+          36.164196
+        ]
+      },
+      "id": "node/10048342615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10048368889",
+        "amenity": "boat_rental",
+        "name": "観光協会ボート桟橋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1661879,
+          36.1294865
+        ]
+      },
+      "id": "node/10048368889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10048370271",
+        "amenity": "boat_rental",
+        "name": "桟橋",
+        "operator": "田中園"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1093367,
+          36.1625259
+        ]
+      },
+      "id": "node/10048370271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10048389124",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3289352,
+          35.872393
+        ]
+      },
+      "id": "node/10048389124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10048390700",
+        "amenity": "boat_rental",
+        "name": "寄居町観光協会",
+        "operator": "寄居町観光協会"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1656569,
+          36.1301876
+        ]
+      },
+      "id": "node/10048390700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147263822",
+        "amenity": "boat_rental",
+        "name": "宍道湖・中海 ボートシーバス ガイド船 たたら丸"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0610423,
+          35.4670689
+        ]
+      },
+      "id": "node/10147263822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147269255",
+        "amenity": "boat_rental",
+        "name": "宍道湖・中海 ボートシーバス ガイド船 アマテラス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0611905,
+          35.4670573
+        ]
+      },
+      "id": "node/10147269255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10866761674",
+        "amenity": "boat_rental",
+        "check_date": "2023-05-04",
+        "name": "屋形船山田屋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8293901,
+          35.7278358
+        ]
+      },
+      "id": "node/10866761674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10956195628",
+        "amenity": "boat_rental",
+        "check_date": "2023-06-05",
+        "name": "黒川つり舟店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6267193,
+          35.3312794
+        ]
+      },
+      "id": "node/10956195628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11087476600",
+        "amenity": "boat_rental",
+        "charge": "1000 RUB",
+        "check_date": "2023-08-04",
+        "contact:instagram": "https://www.instagram.com/sup.station.vl",
+        "fee": "yes",
+        "name": "SupStation",
+        "operator": "ИП Кириченко М.О.",
+        "operator:type": "private",
+        "payment:cash": "yes",
+        "payment:wire_transfer": "yes",
+        "phone": "+7 964 440-90-01",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.1124846,
+          43.1935081
+        ]
+      },
+      "id": "node/11087476600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11162421114",
+        "amenity": "boat_rental",
+        "kayak_rental": "yes",
+        "standup_paddleboard_rental": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.8690326,
+          43.0174074
+        ]
+      },
+      "id": "node/11162421114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11175717899",
+        "amenity": "boat_rental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9714462,
+          36.6190038
+        ]
+      },
+      "id": "node/11175717899"
+    }
+  ]
+}
