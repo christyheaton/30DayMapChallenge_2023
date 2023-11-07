@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "navigation_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "Label": "Start", "Type": "Endpoint", "Icon": "location-dot" }, "geometry": { "type": "Point", "coordinates": [ -122.347830591667673, 47.652018522526589 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Label": "Bus to ferry terminal", "Type": "Leg", "Icon": "bus" }, "geometry": { "type": "Point", "coordinates": [ -122.343589536645595, 47.619292821779567 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Label": "Ferry to Winslow", "Type": "Leg", "Icon": "ferry" }, "geometry": { "type": "Point", "coordinates": [ -122.440166715739068, 47.606761955168714 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Label": "Winslow to Gazzam Lake Nature Preserve", "Type": "Leg", "Icon": "person-biking" }, "geometry": { "type": "Point", "coordinates": [ -122.540637414100829, 47.624484180804039 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Label": "Trailhead to coast", "Type": "Leg", "Icon": "person-hiking" }, "geometry": { "type": "Point", "coordinates": [ -122.57297152526624, 47.625021217944521 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Label": "End", "Type": "Endpoint", "Icon": "location-dot" }, "geometry": { "type": "Point", "coordinates": [ -122.57749158786514, 47.62842245316746 ] } }
+]
+}
