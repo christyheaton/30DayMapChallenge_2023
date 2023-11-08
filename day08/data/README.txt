@@ -1,0 +1,1 @@
+https://ftp.cpc.ncep.noaa.gov/fews/fewsdata/africa/rfe2/shp/
